@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.slayton.msu.counterapp'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.slayton.msu.counterapp"
